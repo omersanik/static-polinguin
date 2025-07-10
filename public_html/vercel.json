@@ -6,5 +6,5 @@
       "use": "@vercel/static"
     }
   ],
-  "routes": [{ "src": "/(.*)", "dest": "/public_html/index.html" }]
+  "routes": [{ "src": "/(.*)", "dest": "/index.html" }]
 }
