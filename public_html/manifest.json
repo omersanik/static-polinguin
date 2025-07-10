@@ -1,0 +1,20 @@
+{
+  "name": "Polinguin",
+  "short_name": "Polinguin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "./polinguinlogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./polinguinlogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
